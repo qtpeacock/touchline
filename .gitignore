@@ -10,7 +10,9 @@ __pycache__/
 .venv/
 .claude/
 
-# Kept out of the public repo: the course's assignment PDF, personal planning notes, and the original draft
+# Kept out of the public repo: the course's assignment PDF, personal planning notes, the original draft,
+# and the screenshots and run data collected for the report
 Final_Project_Requirements.pdf
 ASSIGNMENT.md
 reference/
+evidence/
