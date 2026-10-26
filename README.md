@@ -12,7 +12,12 @@ Players and parents have their own views on the same accounts. They answer Yes, 
 
 ## Run it locally
 
-You need **Python 3.10 or newer**. From this folder:
+You need **Python 3.10 or newer**. Get the code, then run the steps below from the `touchline` folder:
+
+```bash
+git clone https://github.com/qtpeacock/touchline.git
+cd touchline
+```
 
 1. (Recommended) create and turn on a virtual environment:
    ```bash
