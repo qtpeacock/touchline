@@ -1,4 +1,7 @@
-fastapi>=0.110
-uvicorn>=0.29
-pydantic-ai-slim[openai]>=2.44,<3
-python-dotenv>=1.0
+# Each upper bound is the newest version tested in a fresh-clone run (2026-10-26),
+# so a later library release can't break a fresh install.
+fastapi>=0.110,<0.163
+uvicorn>=0.29,<0.55
+pydantic-ai-slim[openai]>=2.44,<2.62
+openai>=3.14,<3.38
+python-dotenv>=1.0,<1.3
