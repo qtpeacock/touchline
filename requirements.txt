@@ -1,0 +1,4 @@
+fastapi>=0.110
+uvicorn>=0.29
+pydantic-ai-slim[openai]>=2.44,<3
+python-dotenv>=1.0

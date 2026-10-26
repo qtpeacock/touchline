@@ -1,0 +1,16 @@
+# Secrets: the key lives in .env here or one folder up, never in the repo
+.env
+
+# Local data: the database and the AI run log are created on first run
+data/
+
+# Python and tooling
+__pycache__/
+*.pyc
+.venv/
+.claude/
+
+# Kept out of the public repo: the course's assignment PDF, personal planning notes, and the original draft
+Final_Project_Requirements.pdf
+ASSIGNMENT.md
+reference/
